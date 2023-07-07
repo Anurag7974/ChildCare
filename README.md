@@ -3,7 +3,8 @@
 <h3 align="left">Proposed Solution :</h3>
 <p dir = "auto">"Parents whose children are spending a lot of time on their smartphones or tablets should use ChildCare to control their children's screen time or activity. ChildCare makes it easy to set boundaries for your child. You can manage their screen time, discover the installed applications, block addictive applications, locate them in real-time, or set a Geo-fence around them. You can also access their SMS messages, phone calls and view their contacts as well as calling or messaging these contacts."</p>
 
-<img src="011.png" alt="Image description">
+
+![Alt Text]([image_url](https://github.com/Anurag7974/ChildCare/blob/master/img.png))
 
 
 <h3 align="left">Features :</h3>
